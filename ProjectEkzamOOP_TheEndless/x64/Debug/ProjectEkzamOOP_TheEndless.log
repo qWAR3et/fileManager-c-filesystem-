@@ -1,0 +1,90 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(8,21): error C2039: "filesystem": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\fstream(26): message : см. объявление "std"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(8,31): error C2878: filesystem: пространство имен или класс с таким именем не существует
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(13,14): error C2039: "vector": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\fstream(26): message : см. объявление "std"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(13,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(13,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(20,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(20,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(20,26): error C2238: непредвиденные лексемы перед ";"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(24,24): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(24,28): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(25,13): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(25,17): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(26,22): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(26,26): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(27,14): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(27,18): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(28,12): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(28,16): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(29,14): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(29,18): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(29,64): error C2143: синтаксическая ошибка: отсутствие ")" перед "{"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(29,66): error C2059: синтаксическая ошибка: )
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(30,15): error C2061: синтаксическая ошибка: идентификатор "vector"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(31,17): error C2061: синтаксическая ошибка: идентификатор "vector"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(32,12): error C2061: синтаксическая ошибка: идентификатор "vector"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(33,19): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(33,23): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(9,17): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(9,21): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(10,17): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(10,21): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(11,19): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(11,23): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(12,14): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(12,18): error C2061: синтаксическая ошибка: идентификатор "path"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(15,21): error C2039: "filesystem": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\string(24): message : см. объявление "std"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(15,31): error C2878: filesystem: пространство имен или класс с таким именем не существует
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(23,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(23,11): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(25,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(25,11): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(25,5): error C2086: int str::vector: переопределение
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(23): message : см. объявление "str::vector"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(31,5): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(32,5): error C2065: pathway_files: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(70,11): error C2065: pathway_files: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(76,11): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(94,22): error C2065: pathway_files: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(95,20): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(106,21): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(108,21): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(115,29): error C2660: Dir::print: функция не принимает 1 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(25,7): message : см. объявление "Dir::print"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(134,40): error C2660: Dir::create_directory: функция не принимает 1 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(24,7): message : см. объявление "Dir::create_directory"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(139,30): error C2660: Dir::reMove: функция не принимает 1 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(26,15): message : см. объявление "Dir::reMove"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(146,48): error C2660: Dir::reName: функция не принимает 2 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(27,7): message : см. объявление "Dir::reName"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(165,28): error C2039: "pathway_dir": не является членом "str".
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(17): message : см. объявление "str"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(165,39): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(168,29): error C2039: "pathway_dir": не является членом "str".
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(17): message : см. объявление "str"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(168,40): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(170,34): error C2660: Dir::copy: функция не принимает 2 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(28,7): message : см. объявление "Dir::copy"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(178,23): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(181,24): error C2065: pathway_dir: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(183,20): error C2039: "replace": не является членом "Dir".
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(17): message : см. объявление "Dir"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(188,30): error C2653: fs: не является именем класса или пространства имен
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(188,34): error C3861: file_size: идентификатор не найден
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(200,21): error C2065: pathway_files: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(202,21): error C2065: pathway_files: необъявленный идентификатор
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(209,48): error C2660: File::create_file: функция не принимает 1 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(11,7): message : см. объявление "File::create_file"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(213,34): error C2660: File::show_file: функция не принимает 1 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(10,7): message : см. объявление "File::show_file"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(219,52): error C2660: File::copy_file: функция не принимает 2 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(9,7): message : см. объявление "File::copy_file"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(225,49): error C2660: Dir::reName: функция не принимает 2 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Dir.h(27,7): message : см. объявление "Dir::reName"
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\Source.cpp(233,31): error C2660: File::reMove: функция не принимает 1 аргументов
+C:\Users\leonu\source\repos\ProjectEkzamOOP_TheEndless\ProjectEkzamOOP_TheEndless\File.h(12,7): message : см. объявление "File::reMove"
